@@ -1,9 +1,24 @@
 ## Concept
+Ma Videotheque. Projet pour le checkpoint 4 à la Wild Code School,utilisant front-end et back-end, avec React, Express et MySQL
 
-This template is meant to serve as a foundation for every P2/P3 following the React-Express-MySQL stack, as learned in Wild Code School.
-It's pre-configured with a set of tools which'll help students produce industry-quality and easier-to-maintain code, while staying as simple as possible to use.
+## Wiframe
 
-## Setup & Use
+
+
+
+
+## Maquette
+
+
+
+
+
+## Base de données modélisée
+Réalisée grâce à Workbench
+
+
+
+
 
 ### Project Initialization
 
