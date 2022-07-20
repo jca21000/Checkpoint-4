@@ -16,6 +16,7 @@ Ma Videotheque. Projet pour le checkpoint 4 à la Wild Code School,utilisant fro
 ## Base de données modélisée
 Réalisée grâce à Workbench
 
+![Capture d’écran 2022-07-20 170708](https://user-images.githubusercontent.com/100160935/180018183-57c77eff-5994-4291-915d-3d834dde2148.png)
 
 
 
